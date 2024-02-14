@@ -1,0 +1,1 @@
+drop table contoh.basket_c
